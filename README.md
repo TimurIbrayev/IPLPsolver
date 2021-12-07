@@ -1,5 +1,5 @@
 # IPLPsolver
-Robust and effiecient implementation of Interior-point (IP) linear programming (LP) solver based on Mehrotra Predictor-Corrector (MPC) algorithm in Julia programming language
+Robust and efficient implementation of Interior-point (IP) linear programming (LP) solver based on Mehrotra Predictor-Corrector (MPC) algorithm in Julia programming language
 
 # Requirement
 The code was written and tested using Julia v1.3.1. 
