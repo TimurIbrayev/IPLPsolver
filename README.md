@@ -16,4 +16,4 @@ Presented in the [final document](https://github.com/TimurIbrayev/IPLPsolver/blo
 Authors would like to thank Prof. David Gleich for very well organized and comprehensive optimization course CS520 offered at Purdue.
 
 # Authors
-[Timur Ibrayev](https://github.com/TimurIbrayev), [Gobinda Saha](https://github.com/sahagobinda)
+[Timur Ibrayev] (https://github.com/TimurIbrayev), [Gobinda Saha] (https://github.com/sahagobinda)
